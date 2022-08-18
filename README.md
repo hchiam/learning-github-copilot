@@ -1,4 +1,4 @@
-# Learning [GitHub Copilot](https://github.com/features/copilot)
+# Learning [GitHub Copilot](https://github.com/features/copilot) (uses OpenAI Codex)
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
